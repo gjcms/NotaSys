@@ -32,6 +32,6 @@ And o sistema mostra a interface para eu relacionar as colunas
 And ligo "nota" com "avaliação"
 Then Vejo uma mensagem de "HTTP erro 415", indicando a coluna que falta colocar
 
-
+GUI Scenario: Teste de commit(Para relatório)
 
 
